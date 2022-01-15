@@ -1,1 +1,12 @@
+Rozdział Pierwszy
+Damian idzie ulicą. Zobaczył 5 złotych na chodniku. Podniusł. Zauważył że jest fałszywa. Rzucił w niebo. Moneta spadła na przechodnia. Przechodniem była stara babcia różańcowa.
+Samoreplikująca sonda kosmiczna	Edytuj
+Teoretycznie, samoreplikująca sonda mogłaby zostać wysłana do sąsiedniego układu gwiezdnego, gdzie korzystając z surowców naturalnych 
+(np. wydobytych z planetoid) zbudowałaby swoje kopie. Następnie kopie zostałyby wysłane do kolejnych systemów, powtarzając cały proces i powielając się w
+ tempie wykładniczym.
+ Każda sonda po zbudowaniu kopii mogłaby przystąpić do wykonywania wyznaczonego zadania, np. eksploracji systemu i przekazania wyników na Ziemię[1].
+Policzono, że gdyby sondy te osiągały prędkość przelotową równą 10% prędkości światła (co wydaje się możliwe przy zastosowaniu napędu jądrowego),
+ a także raz na 500 lat zakładałyby fabrykę samoreplikujących się sond pracującą z wydajnością jednej sondy na 500 lat, to mogłyby dotrzeć do wszystkich gwiazd 
+w Drodze Mlecznej w ciągu pół miliona lat[2]. Ma to szczególne znaczenie przy rozważaniu paradoksu Fermiego, ponieważ jak dotąd nie 
+wykryto żadnych obcych urządzeń takiego typu. Sugeruje to, że w ciągu kilku miliardów lat istnienia naszej galaktyki żadna cywilizacja niczego takiego nie stworzyła.
 
